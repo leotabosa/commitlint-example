@@ -1,0 +1,2 @@
+# commitlint-example
+testing commitlint
