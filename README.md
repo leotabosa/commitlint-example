@@ -10,6 +10,12 @@ Clone or fork this repo with:
 git clone git@github.com:leotabosa/commitlint-example.git
 ```
 
+Install dependencies:
+
+```bash
+yarn install
+```
+
 Now add a file:
 
 ```bash
