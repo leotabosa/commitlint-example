@@ -2,7 +2,7 @@
 
 # Instructions
 
-Clone or fork this repo with:
+Clone this repo with:
 
 ```bash
 
