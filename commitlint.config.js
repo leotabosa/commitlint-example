@@ -14,13 +14,13 @@ module.exports = {
           if (header && header.length < 6) {
             return [
               false,
-              `${error}Commit message has only ${header.length} caracters, should have more than 5.`,
+              `${error}Your commit message has only ${header.length} characters, it should have more than 5.`,
             ];
           }
 
           return [
             String(header).startsWith("#"),
-            `${error}Commit message should start with '#NNNNN' (task number).`,
+            `${error}Commit message should start with # link '#NNNNN' (task number).`,
           ];
         },
       },
