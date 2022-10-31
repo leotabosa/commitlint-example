@@ -10,7 +10,7 @@ git clone git@github.com:leotabosa/commitlint-example.git
 
 ```
 
-Install dependencies:
+Install all dependencies with:
 
 ```bash
 
